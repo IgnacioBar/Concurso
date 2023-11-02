@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336363029144",
+    "project_id": "concu-125cd",
+    "storage_bucket": "concu-125cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336363029144:android:b0171f0642eaa3588646ed",
+        "android_client_info": {
+          "package_name": "com.example.concurso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LJSisCUjKGN_I_XA-WkUqKgtHBqoUrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
